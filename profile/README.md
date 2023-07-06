@@ -1,6 +1,6 @@
 # TheParasiteProject-Devices
 
-## TheParasiteProject is always be, and must be, Personal project!
+## TheParasiteProject will always be Personal project!
 
 Personal devices repo of [TheParasiteProject](https://github.com/TheParasiteProject), <br/>
 that some minimal changes applied ```personal``` AOSP project,<br/>
