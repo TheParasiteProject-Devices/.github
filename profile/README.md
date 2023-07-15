@@ -4,11 +4,11 @@
 
 Personal devices repo of [TheParasiteProject](https://github.com/TheParasiteProject), <br/>
 that some minimal changes applied ```personal``` AOSP project,<br/>
-which based on PixelExperience,</br>
+which mainly based on [PixelExperience](https://github.com/PixelExperience),</br>
 that add Google Play System Update, Carrier Settings, and features that of personal taste :P<br/>
 by ```Parasitizing``` on other AOSP projects.
 
-Hope this project helpful to your projects :)
+Hope this project helps your projects :)
 
 ## Main repo
 
