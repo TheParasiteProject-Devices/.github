@@ -1,7 +1,8 @@
 # TheParasiteProject-Devices
 
 ## Note
-This org includes various experimental changes<br/>
+
+This org includes various `experimental` changes<br/>
 which may or may not work (although we tested every time when we release it).<br/>
 So please be aware about this!
 
@@ -13,17 +14,18 @@ In any case, Hope this project helps your projects :)
 ## TheParasiteProject will always be Personal project!
 
 Personal devices repo of [TheParasiteProject](https://github.com/TheParasiteProject), <br/>
-that Some minimal changes applied ```personal``` AOSP based OS,<br/>
+that Some minimal changes applied `personal` AOSP based OS,<br/>
 which mainly based on [PixelExperience](https://github.com/PixelExperience),</br>
 that add Google Play System Update, Carrier Settings, and features that of personal taste :P<br/>
 which also focused on bringing more Pixel features into AOSP<br/>
-by ```Parasitizing``` other AOSP projects.
+by `Parasitizing` other AOSP projects.
 
 ## Main repo
 
 - [TheParasiteProject](https://github.com/TheParasiteProject)
 
 ## Credits
+
 - [Acme UI](https://github.com/AcmeUI)
 - [AOSPA](https://github.com/AOSPA)
 - [BenzoRom](https://github.com/BenzoRom)
@@ -36,10 +38,10 @@ by ```Parasitizing``` other AOSP projects.
 - [Flamingo-OS](https://github.com/Flamingo-OS)
 - [hentaiOS](https://github.com/hentaiOS)
 - [LineageOS](https://github.com/LineageOS)
-- [minaripenguin](https://github.com/minaripenguin/android_frameworks_base)
+- [minaripenguin](https://github.com/minaripenguin)
 - [PixelExperience](https://github.com/PixelExperience)
-- [ProtonAOSP](https://github.com/protonAOSP)
 - [Project Kaleidoscope](https://github.com/Project-Kaleidoscope)
+- [ProtonAOSP](https://github.com/protonAOSP)
 - [riceDroid Open Source Software](https://github.com/ricedroidOSS)
 - [Rising Tech Open Source Software](https://github.com/RisingTechOSS)
 - [StatiX](https://github.com/StatiXOS)
