@@ -24,8 +24,9 @@ by `Parasitizing` other AOSP projects.
 
 Check these repos for more information.
 
+- [build-scripts](https://github.com/TheParasiteProject-Devices/build-scripts)
 - [device-manifests](https://github.com/TheParasiteProject-Devices/device-manifests)
-- build-scripts
+
 ## Main repo
 
 - [TheParasiteProject](https://github.com/TheParasiteProject)
