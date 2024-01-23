@@ -20,6 +20,12 @@ that add Google Play System Update, Carrier Settings, and features that of perso
 which also focused on bringing more Pixel features into AOSP<br/>
 by `Parasitizing` other AOSP projects.
 
+## Build Process
+
+Check these repos for more information.
+
+- [device-manifests](https://github.com/TheParasiteProject-Devices/device-manifests)
+- build-scripts
 ## Main repo
 
 - [TheParasiteProject](https://github.com/TheParasiteProject)
