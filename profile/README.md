@@ -65,6 +65,7 @@ We are really thankful about that!!!
 - [Evolution-X](https://github.com/Evolution-X)
 - [Flamingo-OS](https://github.com/Flamingo-OS)
 - [hentaiOS](https://github.com/hentaiOS)
+- [Halcyon](https://github.com/halcyonproject)
 - [LineageOS](https://github.com/LineageOS)
 - [minaripenguin](https://github.com/minaripenguin)
 - [PixelBlaster-OS](https://github.com/PixelBlaster-OS)
