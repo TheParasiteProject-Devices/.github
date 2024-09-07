@@ -12,6 +12,7 @@ by `Parasitizing` other AOSP projects.
 Check these repos for more information.
 
 - [device-manifests](https://github.com/TheParasiteProject-Devices/device-manifests)
+- [releases](https://github.com/TheParasiteProject-Devices/releases)
 
 ## Main repo
 
