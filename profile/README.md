@@ -1,9 +1,35 @@
 # TheParasiteProject-Devices
 
+Personal devices repo of [TheParasiteProject](https://github.com/TheParasiteProject), <br/>
+that Funky changes applied `personal` Open Source OS based on [AOSP](https://source.android.com/),<br/>
+which based on various custom AOSP projects,</br>
+that add Google Play System Update, Carrier Settings, and features that of our personal tastes :P<br/>
+which also focused on bringing more Pixel features into AOSP<br/>
+by `Parasitizing` other AOSP projects.
+
+## Build Process
+
+Check these repos for more information.
+
+- [device-manifests](https://github.com/TheParasiteProject-Devices/device-manifests)
+
+## Main repo
+
+- [TheParasiteProject](https://github.com/TheParasiteProject)
+
 ## Note
+
+**TheParasiteProject will always be Personal project!**
 
 **Please read each repos' README.md<br>
 before proceed to build or ask something to us!**
+
+**This project doesn't support userdebug build spoofing.<br>
+As we use userdebug for actual debug purposes.<br>
+Please build user build if possible!**
+
+**If you find bugs, or add pull requests to repos but when we didn't noticed,<br>
+please report those to our [issue tracker](https://github.com/TheParasiteProject/issue_tracker)!**
 
 1. This org includes various `experimental` changes<br/>
 which may or may not work (although we tested every time when we release it).<br/>
@@ -27,26 +53,6 @@ we recommends you to consider take a look around other custom AOSP projects!<br/
 (They are really good, seriously.)
 
 In any case, Hope this project helps your projects :)
-
-## TheParasiteProject will always be Personal project!
-
-Personal devices repo of [TheParasiteProject](https://github.com/TheParasiteProject), <br/>
-that Funky changes applied `personal` AOSP based OS,<br/>
-which based on various custom roms,</br>
-that add Google Play System Update, Carrier Settings, and features that of our personal tastes :P<br/>
-which also focused on bringing more Pixel features into AOSP<br/>
-by `Parasitizing` other AOSP projects.
-
-## Build Process
-
-Check these repos for more information.
-
-- [build-scripts](https://github.com/TheParasiteProject-Devices/build-scripts)
-- [device-manifests](https://github.com/TheParasiteProject-Devices/device-manifests)
-
-## Main repo
-
-- [TheParasiteProject](https://github.com/TheParasiteProject)
 
 ## Credits
 
