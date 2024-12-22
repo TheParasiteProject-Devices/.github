@@ -1,4 +1,4 @@
-# TheParasiteProject-Devices [BROKEN] [15.0 WIP]
+# TheParasiteProject-Devices [BROKEN] [15.0 WIP] [DON'T PICK YET!!]
 
 Personal devices repo of [TheParasiteProject](https://github.com/TheParasiteProject), <br/>
 that Funky changes applied `personal` Open Source OS based on [AOSP](https://source.android.com/),<br/>
