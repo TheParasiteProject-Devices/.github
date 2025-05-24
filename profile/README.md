@@ -19,6 +19,15 @@ Get detailed instructions on building this project in these repositories.
 
 - [TheParasiteProject](https://github.com/TheParasiteProject)
 
+## Play Integrity
+
+This project does not supports Play Integrity bypassing.<br>
+While older sources contains those patches,<br>
+newer sources after Android 14 deprecates those changes.<br>
+
+- [Quirks - Device integrity](https://wiki.lineageos.org/quirks/snet/) by [LineageOS](https://github.com/LineageOS)
+- [Play Integrity](https://lineageos.org/PlayIntegrity/) by [LineageOS](https://github.com/LineageOS)
+
 ## Note
 
 **TheParasiteProject will always be Personal project!**
@@ -63,6 +72,7 @@ Their work has been a great source of inspiration and guidance for us!
 
 - [Acme UI](https://github.com/AcmeUI)
 - [AOSPA](https://github.com/AOSPA)
+- [AxionAOSP](https://github.com/AxionAOSP)
 - [BenzoRom](https://github.com/BenzoRom)
 - [BlissRoms](https://github.com/BlissRoms)
 - [CalyxOS](https://github.com/CalyxOS)
