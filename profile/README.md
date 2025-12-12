@@ -11,7 +11,7 @@ by `Parasitizing` other AOSP projects,<br>
 
 Get detailed instructions on building this project in these repositories.
 
-- [device_manifests](https://github.com/TheParasiteProject-Devices/device_manifests)
+- [device_manifests](https://github.com/TheParasiteProject/device_manifests)
 
 ## Main repo
 
